@@ -1,4 +1,6 @@
 # kerbal-savefile-viewer
+Mostly just a mess-around-to-see-if-i can project!
+
 
 ## Done:
   - Read KSP .sfs file into a python dictionary
